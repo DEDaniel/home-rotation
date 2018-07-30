@@ -1,0 +1,7 @@
+{
+  "name": "home-rotation",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
